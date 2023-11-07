@@ -3,4 +3,4 @@
 
 
 # First step install pywifi:
-- pyinstaller install pywifi
+- pip install pywifi
